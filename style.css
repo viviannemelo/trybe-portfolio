@@ -2,6 +2,8 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+
+    background-color: #fbf7e9;
 }
 
 h1{
@@ -14,4 +16,12 @@ h2{
 
 p{
     font-weight: 100;
+}
+
+h3 {
+    font-style: italic;
+}
+
+ul > .git {
+    font-size: 13px;
 }
